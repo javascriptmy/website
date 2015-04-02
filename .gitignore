@@ -28,3 +28,11 @@ bower_components
 # Misc
 *.pages
 *.pdf
+
+# JetBrains
+.idea
+
+# Sublime
+*.sublime-*
+
+npm-debug.log
