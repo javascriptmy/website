@@ -1,4 +1,4 @@
-# JavaScript.my website
+# JavaScript.my website [![slack active users](https://javascriptmy-slack.herokuapp.com/badge.svg)](https://javascriptmy-slack.herokuapp.com/)
 > website for monthly meetups etc.
 
 Based on [Raneto](http://raneto.com) a free, open-source, simple Markdown powered Knowledgebase for Nodejs.
